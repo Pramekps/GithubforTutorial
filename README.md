@@ -1,5 +1,5 @@
 # GithubforTutorial
-Begin Github !!
+Begin Github for Developer !
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
